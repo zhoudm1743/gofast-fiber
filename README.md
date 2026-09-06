@@ -7,7 +7,7 @@ GoFast 框架的 [Fiber](https://gofiber.io) HTTP 引擎驱动插件。
 ## 安装
 
 ```bash
-go get github.com/zhoudm1743/gofast-fiber@v0.9.0
+go get github.com/zhoudm1743/gofast-fiber@latest
 ```
 
 ## 接入
